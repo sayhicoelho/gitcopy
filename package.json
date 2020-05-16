@@ -1,0 +1,7 @@
+{
+  "name": "gitcopy",
+  "version": "1.0.0",
+  "main": "bin/index.js",
+  "license": "MIT",
+  "bin": "./bin/index.js"
+}
